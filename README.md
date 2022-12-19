@@ -48,4 +48,4 @@ $ python3 -m pip install -r requirments.txt
 $ sudo python3 Doraemon.py
 ```
                *AryanVBW*
-         私の甘い子猫に触発されました 
+       私の甘いジャンハビに触発されました
