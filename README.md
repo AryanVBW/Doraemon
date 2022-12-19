@@ -20,7 +20,7 @@
   </a>
 </p>
 
-![demo](http://dl.sabzlearn.ir/demo/storm/cu-demo.PNG)
+![demo](https://github.com/ARYAN122333/L3MON/blob/main/logo.png)
 
 ### Features:
 
