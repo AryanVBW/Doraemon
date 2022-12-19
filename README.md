@@ -30,7 +30,7 @@
 - Access Webcam
 - Access Microphone
 
-![save demo](http://dl.sabzlearn.ir/demo/storm/loc-demo.PNG)
+![save demo](https://github.com/AryanVBW/Storm-Breaker.--cam-hack/releases/download/Imagesbanner/images.jpeg)
 
 
 ### Operating Systems Tested
